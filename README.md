@@ -1,6 +1,6 @@
 # Weather App
 
-Hello everyone, here is my Weather App project which I builded in unit-3 with the help of `https://openweathermap.org/api` and `https://www.embedgooglemap.net/` api's. Link of deployment:- https://weather-app-unit3.netlify.app/
+Hello everyone, here is my Weather App project the help of `https://openweathermap.org/api` and `https://www.embedgooglemap.net/` api's. Link of deployment:- https://weather-app-unit3.netlify.app/
 
 
 ## Features
@@ -30,12 +30,5 @@ In this project we used following tech stacks:-
 - [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 
-## Connect with author
-
-- [Twitter](https://twitter.com/harshal258)
-- [LinkdIn](https://www.linkedin.com/in/harshalpardeshi/)
 
 
-## Feedback
-
-If you have any feedback or queries, please reach out to me at pardeshiharshal90@gmail.com.
